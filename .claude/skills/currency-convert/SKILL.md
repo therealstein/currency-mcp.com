@@ -11,7 +11,7 @@ This skill requires connecting to the remote Currency MCP server. Add this to yo
   "mcpServers": {
     "currency": {
       "type": "url",
-      "url": "https://currency-mcp.com/sse"
+      "url": "https://currency-mcp.com/mcp"
     }
   }
 }
