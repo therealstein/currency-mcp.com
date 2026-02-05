@@ -24,7 +24,7 @@ Add the Currency MCP server to your Claude Code configuration:
   "mcpServers": {
     "currency": {
       "type": "url",
-      "url": "https://currency-mcp.com/sse"
+      "url": "https://currency-mcp.com/mcp"
     }
   }
 }
